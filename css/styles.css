@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.logo{
+    width: 120px;
+    height: 60px;
+}
+
+.main-bg{
+    background-image: url(../img/ngo1.jpg);
+    background-repeat: repeat-y;
+    background-position: center;
+    background-size: cover;
+}
+
+.wallpaper{
+    background-image: url(../img/ngo1.jpg);
+    background-repeat: repeat-y;
+    background-position: center;
+    background-size: cover;
+}
+
+.dero-background{
+    background-image: url(../img/worldmap_bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.m-header{
+    font-family: Georgia, Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+hr.one {
+    border: none;
+    height: 5px;
+    border-radius: 2px;
+    background: #dddddd;
+    background: linear-gradient(to left, blue, green);
+   
+}
+
+.bi{
+    font-size: 22px;
+}
+
+.bi-facebook:hover{
+    color: #009;
+}
+
+.bi-twitter:hover{
+    color: #009;
+}
+
+.bi-instagram:hover{
+    color: #d87093;
+}
+
+.bi-geo-alt, .bi-phone-fill{
+    font-size: 40px;
+}
